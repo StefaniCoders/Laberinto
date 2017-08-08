@@ -161,8 +161,3 @@ mover.onclick=function(){
 	}
 	l.dibujarMapa();
 }
-
-
-
-
-
